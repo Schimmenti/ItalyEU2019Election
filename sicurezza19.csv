@@ -1,0 +1,100 @@
+﻿"Territorio"	"Misura"	"Presenza di problemi nella zona di residenza"	"Seleziona periodo"	"Value"	"Flags"
+"Italia"	"valori per cento"	"inquinamento"	"2017"	11.7	
+"Italia"	"valori per cento"	"rumori"	"2017"	12.4	
+"Italia"	"valori per cento"	"criminalità"	"2017"	12.3	
+"Nord-ovest"	"valori per cento"	"inquinamento"	"2017"	11.4	
+"Nord-ovest"	"valori per cento"	"rumori"	"2017"	12.9	
+"Nord-ovest"	"valori per cento"	"criminalità"	"2017"	11.7	
+"Piemonte"	"valori per cento"	"inquinamento"	"2017"	9.2	
+"Piemonte"	"valori per cento"	"rumori"	"2017"	10.6	
+"Piemonte"	"valori per cento"	"criminalità"	"2017"	8.6	
+"Valle d'Aosta / Vallée d'Aoste"	"valori per cento"	"inquinamento"	"2017"		"il dato non raggiunge la metà della cifra minima considerata"
+"Valle d'Aosta / Vallée d'Aoste"	"valori per cento"	"rumori"	"2017"		"il dato non raggiunge la metà della cifra minima considerata"
+"Valle d'Aosta / Vallée d'Aoste"	"valori per cento"	"criminalità"	"2017"	4	"dato statisticamente non significativo (vedasi metadati di dataset)"
+"Liguria"	"valori per cento"	"inquinamento"	"2017"	13.5	
+"Liguria"	"valori per cento"	"rumori"	"2017"	15	
+"Liguria"	"valori per cento"	"criminalità"	"2017"	11.2	
+"Lombardia"	"valori per cento"	"inquinamento"	"2017"	12.2	
+"Lombardia"	"valori per cento"	"rumori"	"2017"	13.8	
+"Lombardia"	"valori per cento"	"criminalità"	"2017"	13.2	
+"Nord-est"	"valori per cento"	"inquinamento"	"2017"	9.4	
+"Nord-est"	"valori per cento"	"rumori"	"2017"	9.8	
+"Nord-est"	"valori per cento"	"criminalità"	"2017"	11.7	
+"Provincia Autonoma Bolzano / Bozen"	"valori per cento"	"inquinamento"	"2017"		"il dato non raggiunge la metà della cifra minima considerata"
+"Provincia Autonoma Bolzano / Bozen"	"valori per cento"	"rumori"	"2017"	5.5	"dato statisticamente non significativo (vedasi metadati di dataset)"
+"Provincia Autonoma Bolzano / Bozen"	"valori per cento"	"criminalità"	"2017"		"il dato non raggiunge la metà della cifra minima considerata"
+"Provincia Autonoma Trento"	"valori per cento"	"inquinamento"	"2017"		"il dato non raggiunge la metà della cifra minima considerata"
+"Provincia Autonoma Trento"	"valori per cento"	"rumori"	"2017"	5.8	"dato statisticamente non significativo (vedasi metadati di dataset)"
+"Provincia Autonoma Trento"	"valori per cento"	"criminalità"	"2017"		"il dato non raggiunge la metà della cifra minima considerata"
+"Veneto"	"valori per cento"	"inquinamento"	"2017"	9.7	
+"Veneto"	"valori per cento"	"rumori"	"2017"	8.9	
+"Veneto"	"valori per cento"	"criminalità"	"2017"	11	
+"Friuli-Venezia Giulia"	"valori per cento"	"inquinamento"	"2017"	7.8	
+"Friuli-Venezia Giulia"	"valori per cento"	"rumori"	"2017"	9.5	
+"Friuli-Venezia Giulia"	"valori per cento"	"criminalità"	"2017"	8.1	
+"Emilia-Romagna"	"valori per cento"	"inquinamento"	"2017"	10.7	
+"Emilia-Romagna"	"valori per cento"	"rumori"	"2017"	11.8	
+"Emilia-Romagna"	"valori per cento"	"criminalità"	"2017"	15.1	
+"Centro"	"valori per cento"	"inquinamento"	"2017"	13.8	
+"Centro"	"valori per cento"	"rumori"	"2017"	14.1	
+"Centro"	"valori per cento"	"criminalità"	"2017"	13.1	
+"Toscana"	"valori per cento"	"inquinamento"	"2017"	9	
+"Toscana"	"valori per cento"	"rumori"	"2017"	11.1	
+"Toscana"	"valori per cento"	"criminalità"	"2017"	11	
+"Umbria"	"valori per cento"	"inquinamento"	"2017"	7.6	
+"Umbria"	"valori per cento"	"rumori"	"2017"	8.8	
+"Umbria"	"valori per cento"	"criminalità"	"2017"	8.4	
+"Marche"	"valori per cento"	"inquinamento"	"2017"	6.2	
+"Marche"	"valori per cento"	"rumori"	"2017"	7.2	
+"Marche"	"valori per cento"	"criminalità"	"2017"	7.4	
+"Lazio"	"valori per cento"	"inquinamento"	"2017"	19.5	
+"Lazio"	"valori per cento"	"rumori"	"2017"	18.4	
+"Lazio"	"valori per cento"	"criminalità"	"2017"	16.5	
+"Sud"	"valori per cento"	"inquinamento"	"2017"	12.9	
+"Sud"	"valori per cento"	"rumori"	"2017"	13.8	
+"Sud"	"valori per cento"	"criminalità"	"2017"	14.3	
+"Abruzzo"	"valori per cento"	"inquinamento"	"2017"	7.8	"dato statisticamente non significativo (vedasi metadati di dataset)"
+"Abruzzo"	"valori per cento"	"rumori"	"2017"	8.1	"dato statisticamente non significativo (vedasi metadati di dataset)"
+"Abruzzo"	"valori per cento"	"criminalità"	"2017"	10	
+"Molise"	"valori per cento"	"inquinamento"	"2017"		"il dato non raggiunge la metà della cifra minima considerata"
+"Molise"	"valori per cento"	"rumori"	"2017"	6.1	"dato statisticamente non significativo (vedasi metadati di dataset)"
+"Molise"	"valori per cento"	"criminalità"	"2017"	8.9	"dato statisticamente non significativo (vedasi metadati di dataset)"
+"Campania"	"valori per cento"	"inquinamento"	"2017"	18.3	
+"Campania"	"valori per cento"	"rumori"	"2017"	18.8	
+"Campania"	"valori per cento"	"criminalità"	"2017"	21.4	
+"Puglia"	"valori per cento"	"inquinamento"	"2017"	9.7	
+"Puglia"	"valori per cento"	"rumori"	"2017"	11.1	
+"Puglia"	"valori per cento"	"criminalità"	"2017"	10.3	
+"Basilicata"	"valori per cento"	"inquinamento"	"2017"	10.1	"dato statisticamente non significativo (vedasi metadati di dataset)"
+"Basilicata"	"valori per cento"	"rumori"	"2017"	9.6	"dato statisticamente non significativo (vedasi metadati di dataset)"
+"Basilicata"	"valori per cento"	"criminalità"	"2017"	7	"dato statisticamente non significativo (vedasi metadati di dataset)"
+"Calabria"	"valori per cento"	"inquinamento"	"2017"	10.3	
+"Calabria"	"valori per cento"	"rumori"	"2017"	11.9	
+"Calabria"	"valori per cento"	"criminalità"	"2017"	9.1	
+"Isole"	"valori per cento"	"inquinamento"	"2017"	10.2	
+"Isole"	"valori per cento"	"rumori"	"2017"	9.8	
+"Isole"	"valori per cento"	"criminalità"	"2017"	9.3	
+"Sicilia"	"valori per cento"	"inquinamento"	"2017"	11.6	
+"Sicilia"	"valori per cento"	"rumori"	"2017"	10.9	
+"Sicilia"	"valori per cento"	"criminalità"	"2017"	11.4	
+"Sardegna"	"valori per cento"	"inquinamento"	"2017"	6	"dato statisticamente non significativo (vedasi metadati di dataset)"
+"Sardegna"	"valori per cento"	"rumori"	"2017"	7	"dato statisticamente non significativo (vedasi metadati di dataset)"
+"Sardegna"	"valori per cento"	"criminalità"	"2017"	3.4	"dato statisticamente non significativo (vedasi metadati di dataset)"
+"centro area metropolitana"	"valori per cento"	"inquinamento"	"2017"	12.5	
+"centro area metropolitana"	"valori per cento"	"rumori"	"2017"	15.4	
+"centro area metropolitana"	"valori per cento"	"criminalità"	"2017"	15.9	
+"periferia area metropolitana"	"valori per cento"	"inquinamento"	"2017"	5	
+"periferia area metropolitana"	"valori per cento"	"rumori"	"2017"	5.6	
+"periferia area metropolitana"	"valori per cento"	"criminalità"	"2017"	5.4	
+"fino a 2.000 ab."	"valori per cento"	"inquinamento"	"2017"	11.8	
+"fino a 2.000 ab."	"valori per cento"	"rumori"	"2017"	13.2	
+"fino a 2.000 ab."	"valori per cento"	"criminalità"	"2017"	12.8	
+"area metropolitana"	"valori per cento"	"inquinamento"	"2017"	23.9	
+"area metropolitana"	"valori per cento"	"rumori"	"2017"	23.7	
+"area metropolitana"	"valori per cento"	"criminalità"	"2017"	22.4	
+"grandi comuni"	"valori per cento"	"inquinamento"	"2017"	6.4	
+"grandi comuni"	"valori per cento"	"rumori"	"2017"	7.2	
+"grandi comuni"	"valori per cento"	"criminalità"	"2017"	7.2	
+"piccoli comuni"	"valori per cento"	"inquinamento"	"2017"	9.6	
+"piccoli comuni"	"valori per cento"	"rumori"	"2017"	9.5	
+"piccoli comuni"	"valori per cento"	"criminalità"	"2017"	9.7	
